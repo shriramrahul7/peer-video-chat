@@ -22,7 +22,7 @@ p {
 }
 
 button {
-    background-color: -internal-light-dark(white, black);
+    background-color: -internal-light-dark(white, rgb(20, 18, 18));
     padding: 1rem 10rem;
     border-radius: 3rem;
     border: none;
@@ -30,7 +30,7 @@ button {
 }
 
 .call-btn {
-    background-color: darkslategrey;
+    background-color: rgb(65, 182, 182);
     color: antiquewhite;
     font-size: 3rem;
     margin-left: 7rem;
